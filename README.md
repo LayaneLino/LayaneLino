@@ -23,4 +23,4 @@
   
   ##
   
-  
+   ![Snake animation](https://github.com/LayaneLino/LayaneLino/blob/output/github-contribution-grid-snake.svg)
