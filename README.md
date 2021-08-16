@@ -1,4 +1,4 @@
-### Olá, eu sou a Layane! 👋
+### Olá <strike>Mundo</strike>, eu sou a Layane! 👋
 
 ##
 
