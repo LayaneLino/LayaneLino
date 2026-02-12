@@ -1,22 +1,16 @@
 ### Olá <strike>Mundo</strike>, eu sou a Layane! 👋
-
+# 👩🏻‍💻 Layane Lino
+**`Estudante de Engenharia de Software `**
 ##
-
-<div>
-  <a href="https://github.com/LayaneLino">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LayaneLino&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LayaneLino&layout=compact&langs_count=7&theme=radical&hide=Jupyter Notebook"/>
-</div>
-  
+### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Ícone-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ícone-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ícone-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ícone-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" height="130" alt="Gif-Layane" src="https://github.com/user-attachments/assets/84f303bc-e0b1-4cf7-ae26-fdc2b219c65d">
+  <img align="right" height="150" alt="Gif-Layane" src="https://github.com/user-attachments/assets/84f303bc-e0b1-4cf7-ae26-fdc2b219c65d">
 </div> 
-
-  
   ##
   <div>
     <a href = "mailto:layanelinno@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
