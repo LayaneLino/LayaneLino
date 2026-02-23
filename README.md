@@ -16,6 +16,9 @@
     <p></p>
     <a href="https://mail.google.com/mail/?view=cm&to=layanelinno@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/LayaneLino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
-   ![Snake animation](https://github.com/LayaneLino/LayaneLino/blob/output/github-contribution-grid-snake.svg)
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LayaneLino/LayaneLino/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LayaneLino/LayaneLino/output/github-contribution-grid-snake.svg">
+      <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/LayaneLino/LayaneLino/output/github-contribution-grid-snake.svg">
+    </picture>
   </div> 
