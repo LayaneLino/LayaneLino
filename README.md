@@ -8,9 +8,9 @@
     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="right" height="180" src="https://github.com/user-attachments/assets/84f303bc-e0b1-4cf7-ae26-fdc2b219c65d">
+    <img align="right" height="250" src="https://github.com/user-attachments/assets/213b4cd6-36b4-422c-b38b-3f2a599bdc09">
   </div>
-  
+
 ### 📫 Contato
   <div>
     <p></p>
