@@ -1,6 +1,6 @@
-### Olá <strike>Mundo</strike>, eu sou a Layane! 👋
-### 👩🏻‍💻 Layane Lino
-#### 🎓 Estudante de Engenharia de Software
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=9D36F7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Layane+Lino+%F0%9F%91%8B;Software+Engineering+Student+&#127891;" alt="Typing SVG" />
+</h1>
 
 <table border="0">
   <tr>
@@ -30,6 +30,8 @@
     </td>
   </tr>
 </table>
+
+<img align=right src="https://komarev.com/ghpvc/?username=LayaneLino&color=yellow" alt="profileviews"/>
 
 <div>
   <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LayaneLino&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&hide_border=true&cache_seconds=21600"/>
