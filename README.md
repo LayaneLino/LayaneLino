@@ -31,7 +31,7 @@
   </tr>
 </table>
 
-<img align=right src="https://komarev.com/ghpvc/?username=LayaneLino&color=yellow" alt="profileviews"/>
+<img src="https://komarev.com/ghpvc/?username=LayaneLino&color=yellow" alt="profileviews"/>
 
 <div>
   <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LayaneLino&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&hide_border=true&cache_seconds=21600"/>
