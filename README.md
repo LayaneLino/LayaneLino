@@ -31,6 +31,11 @@
   </tr>
 </table>
 
+<div>
+  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LayaneLino&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&hide_border=true&cache_seconds=21600"/>
+  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LayaneLino&theme=dark&layout=compact&custom_title=Linguagens&langs_count=9&hide_border=true&cache_seconds=21600&hide=jupyter%20notebook"/>
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LayaneLino/LayaneLino/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LayaneLino/LayaneLino/output/github-contribution-grid-snake.svg">
