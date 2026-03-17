@@ -1,3 +1,5 @@
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=fcb1bb&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Layane+Lino+%F0%9F%91%8B;Software+Engineering+Student+&#127891;" alt="Typing SVG" />
 </h1>
@@ -41,3 +43,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LayaneLino/LayaneLino/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/LayaneLino/LayaneLino/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
